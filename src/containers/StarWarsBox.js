@@ -10,7 +10,7 @@ import PersonDetail from "../components/PersonDetail";
 import PlanetDetail from "../components/PlanetDetail";
 import SpeciesDetail from "../components/SpeciesDetail";
 import VehicleDetail from "../components/VehicleDetail";
-import StarshipDetail from "../components/VehicleDetail";
+import StarshipDetail from "../components/StarshipDetail";
 
 const StarWarsBox = () => {
   const [people, setPeople] = useState([]);
