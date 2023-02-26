@@ -1,5 +1,5 @@
 const Header = () => {
-  return <h1>Star Wars</h1>;
+  return <h1>Star Wars Encyclopedia</h1>;
 };
 
 export default Header;

@@ -1,3 +1,4 @@
+import './index.css'
 import StarWarsBox from "./containers/StarWarsBox";
 
 function App() {
